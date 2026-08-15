@@ -8,7 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
-<body id="page-membership">
+<body id="page-membership"><span id="home" aria-hidden="true" style="position:absolute;top:0;left:0;width:0;height:0;overflow:hidden;"></span>
 
 
 
@@ -71,8 +71,8 @@
       <div class="mem-hero-divider"></div>
       <p class="mem-hero-sub">Find the right plan for your game. Affordable sessions, flexible options, and a welcoming community waiting for you — from beginners to seasoned competitors.</p>
       <div class="mem-hero-btns">
-        <a href="#pricing" class="mem-btn-primary">🏓 VIEW PRICING</a>
-        <a href="index.html#contact" class="mem-btn-outline">JOIN NOW</a>
+        <a href="#coaching-payg" class="mem-btn-primary">🏓 VIEW PRICING</a>
+        <a href="contact.html" class="mem-btn-outline">JOIN NOW</a>
       </div>
     </div>
 
@@ -111,46 +111,6 @@
   </div>
 </div>
 
-<!-- PRICING -->
-<section id="pricing">
-  <div class="section-tag">Pricing</div>
-  <div class="fade-in" style="display:inline-block;background:rgba(0,201,122,0.1);border:1px solid rgba(0,201,122,0.3);color:var(--green-dark);font-family:'Inter',sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;padding:6px 14px;border-radius:20px;margin-bottom:12px;">Coming Soon</div>
-  <h2 class="section-title fade-in">CHOOSE YOUR PLAN</h2>
-  <p class="section-sub fade-in">Simple, transparent pricing. No hidden fees, no commitments — just great table tennis.</p>
-  <div class="pricing-grid">
-
-    <!-- Card 1: Play Up to 2 Hours -->
-    <div class="pricing-card fade-in-scale">
-      <div class="pricing-plan-name">Play Up to 2 Hours</div>
-      <div class="pricing-price"><sup>£</sup>10</div>
-      <div class="pricing-price-note">per session</div>
-      <div class="pricing-divider"></div>
-      <ul class="pricing-features" style="flex:1;">
-        <li>All tables access</li>
-        <li>Casual play</li>
-        <li>Up to 2 hours</li>
-      </ul>
-      <a href="club-account.html" class="pricing-btn pricing-btn-outline" style="min-height:48px;display:flex;align-items:center;justify-content:center;">Pay Here</a>
-    </div>
-
-    <!-- Card 2: Play Over 2 Hours (Popular) -->
-    <div class="pricing-card popular fade-in-scale">
-      <div class="popular-badge">Most Popular</div>
-      <div class="pricing-plan-name">Play Over 2 Hours</div>
-      <div class="pricing-price"><sup>£</sup>15</div>
-      <div class="pricing-price-note">per session</div>
-      <div class="pricing-divider"></div>
-      <ul class="pricing-features" style="flex:1;">
-        <li>All tables access</li>
-        <li>Extended play</li>
-        <li>Over 2 hours</li>
-      </ul>
-      <a href="club-account.html" class="pricing-btn pricing-btn-filled" style="min-height:48px;display:flex;align-items:center;justify-content:center;">Pay Here</a>
-    </div>
-
-  </div>
-</section>
-
 <!-- COACHING & PAY AS YOU PLAY -->
 <section id="coaching-payg" style="background:var(--off-white);">
   <div class="section-tag">Coaching &amp; Pay As You Play</div>
@@ -166,6 +126,7 @@
       <a href="https://form.jotform.com/70285212440345" target="_blank" rel="noopener" class="btn-primary" style="padding:14px 28px;font-size:13px;border-radius:8px;">🏓 Book Now</a>
       <a href="contact.html" class="btn-outline" style="padding:13px 28px;font-size:13px;border-radius:8px;">💬 Enquire Now</a>
     </div>
+    <a href="services.html" style="display:inline-block;margin-top:18px;font-size:13px;font-weight:700;color:var(--green);text-decoration:none;letter-spacing:0.5px;">🔗 View Services Page →</a>
   </div>
   <a href="services.html" class="fade-in" style="display:inline-block;margin-top:20px;font-size:13px;font-weight:700;color:var(--green);text-decoration:none;letter-spacing:1px;">View full coaching packages &amp; pricing →</a>
 </section>
@@ -461,9 +422,9 @@
   });
 
   // ─── SMOOTH SCROLL for hero CTA ───
-  document.querySelector('a[href="#pricing"]').addEventListener('click', e => {
+  document.querySelector('a[href="#coaching-payg"]').addEventListener('click', e => {
     e.preventDefault();
-    document.querySelector('#pricing').scrollIntoView({ behavior: 'smooth' });
+    document.querySelector('#coaching-payg').scrollIntoView({ behavior: 'smooth' });
   });
 
 })();
