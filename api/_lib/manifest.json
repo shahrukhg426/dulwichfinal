@@ -1,0 +1,2828 @@
+[
+  {
+    "id": "home__global__image__1",
+    "page": "home",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "home / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "home__home__heading__1",
+    "page": "home",
+    "section": "home",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / home / heading #1",
+    "preview": "BOOK YOUR TABLE TENNIS COACHING"
+  },
+  {
+    "id": "home__home__paragraph__1",
+    "page": "home",
+    "section": "home",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / home / paragraph #1",
+    "preview": "South London's premier table tennis club, coached by Former England No.1 Abdul Wuraola. All ages and levels welcome."
+  },
+  {
+    "id": "home__home__image__1",
+    "page": "home",
+    "section": "home",
+    "kind": "image",
+    "type": "image",
+    "label": "home / home / image #1 (alt: Abdul Wuraola — Former England No.1)",
+    "preview": "Abdul Wuraola — Former England No.1"
+  },
+  {
+    "id": "home__about__heading__1",
+    "page": "home",
+    "section": "about",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / about / heading #1",
+    "preview": "MORE THAN A CLUB — IT'S A COMMUNITY"
+  },
+  {
+    "id": "home__about__paragraph__1",
+    "page": "home",
+    "section": "about",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / about / paragraph #1",
+    "preview": "Dulwich Table Tennis Club is South London's premier table tennis club, based at Harris Girls Academy in SE22. Founded in 2008, we've grown t"
+  },
+  {
+    "id": "home__about__image__1",
+    "page": "home",
+    "section": "about",
+    "kind": "image",
+    "type": "image",
+    "label": "home / about / image #1 (alt: Head Coach Abdul Wuraola)",
+    "preview": "Head Coach Abdul Wuraola"
+  },
+  {
+    "id": "home__about__image__2",
+    "page": "home",
+    "section": "about",
+    "kind": "image",
+    "type": "image",
+    "label": "home / about / image #2 (alt: Table Tennis Paddle and Ball)",
+    "preview": "Table Tennis Paddle and Ball"
+  },
+  {
+    "id": "home__coaches__heading__1",
+    "page": "home",
+    "section": "coaches",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / coaches / heading #1",
+    "preview": "COACHED BY THE BEST. BUILT FOR YOU."
+  },
+  {
+    "id": "home__coaches__paragraph__1",
+    "page": "home",
+    "section": "coaches",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / coaches / paragraph #1",
+    "preview": "Our goal is to create a safe, structured and enjoyable environment where everyone can develop skills, confidence and a love for the sport."
+  },
+  {
+    "id": "home__coaches__image__1",
+    "page": "home",
+    "section": "coaches",
+    "kind": "image",
+    "type": "image",
+    "label": "home / coaches / image #1 (alt: Abdul Wuraola)",
+    "preview": "Abdul Wuraola"
+  },
+  {
+    "id": "home__coaches__image__2",
+    "page": "home",
+    "section": "coaches",
+    "kind": "image",
+    "type": "image",
+    "label": "home / coaches / image #2 (alt: Adeoye Adewale)",
+    "preview": "Adeoye Adewale"
+  },
+  {
+    "id": "home__membership__heading__1",
+    "page": "home",
+    "section": "membership",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / membership / heading #1",
+    "preview": "PROFESSIONAL COACHING FOR EVERYONE"
+  },
+  {
+    "id": "home__membership__paragraph__1",
+    "page": "home",
+    "section": "membership",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / membership / paragraph #1",
+    "preview": "Expert training programs tailored to your skills level and goals, delivered by qualified professionals"
+  },
+  {
+    "id": "home__testimonials__heading__1",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / testimonials / heading #1",
+    "preview": "REAL PLAYERS. REAL RESULTS. REAL STORIES."
+  },
+  {
+    "id": "home__testimonials__testimonial-text__1",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-text",
+    "label": "home / testimonials / testimonial text #1",
+    "preview": "\"My son started at age 7 with no experience. Within a year he was competing in junior tournaments. Abdul is a phenomenal coach — patient, sk"
+  },
+  {
+    "id": "home__testimonials__testimonial-text__2",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-text",
+    "label": "home / testimonials / testimonial text #2",
+    "preview": "\"I've been playing table tennis for 15 years, but training under Abdul completely transformed my game. The level of coaching here is world-c"
+  },
+  {
+    "id": "home__testimonials__testimonial-text__3",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-text",
+    "label": "home / testimonials / testimonial text #3",
+    "preview": "\"The atmosphere at DTTC is unlike anything I've experienced. Welcoming, competitive, and so much fun. Joined as a complete beginner 2 years "
+  },
+  {
+    "id": "home__testimonials__testimonial-name__1",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-name",
+    "label": "home / testimonials / testimonial name #1",
+    "preview": "Sarah Mitchell"
+  },
+  {
+    "id": "home__testimonials__testimonial-name__2",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-name",
+    "label": "home / testimonials / testimonial name #2",
+    "preview": "James Okonkwo"
+  },
+  {
+    "id": "home__testimonials__testimonial-name__3",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-name",
+    "label": "home / testimonials / testimonial name #3",
+    "preview": "Rachel Peters"
+  },
+  {
+    "id": "home__testimonials__testimonial-role__1",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-role",
+    "label": "home / testimonials / testimonial role #1",
+    "preview": "Parent of Junior Player"
+  },
+  {
+    "id": "home__testimonials__testimonial-role__2",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-role",
+    "label": "home / testimonials / testimonial role #2",
+    "preview": "Advanced Club Member"
+  },
+  {
+    "id": "home__testimonials__testimonial-role__3",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "text",
+    "type": "testimonial-role",
+    "label": "home / testimonials / testimonial role #3",
+    "preview": "Club Member Since 2023"
+  },
+  {
+    "id": "home__testimonials__testimonial-list",
+    "page": "home",
+    "section": "testimonials",
+    "kind": "container",
+    "type": "testimonial-list",
+    "label": "home / testimonials / testimonial list (add new item here)",
+    "preview": ""
+  },
+  {
+    "id": "home__champions__heading__1",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / champions / heading #1",
+    "preview": "PLAYERS WE'VE DEVELOPED"
+  },
+  {
+    "id": "home__champions__heading__2",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / champions / heading #2",
+    "preview": "🏆 Notable Athletes Coached"
+  },
+  {
+    "id": "home__champions__heading__3",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / champions / heading #3",
+    "preview": "🏫 Schools & Institutions"
+  },
+  {
+    "id": "home__champions__paragraph__1",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #1",
+    "preview": "From complete beginners to Olympic medallists — here's what world-class coaching at DTTC looks like."
+  },
+  {
+    "id": "home__champions__paragraph__2",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #2",
+    "preview": "Abdul has spent decades working in schools, community settings and elite sport — nurturing players from Year 7 beginners all the way to Olym"
+  },
+  {
+    "id": "home__champions__paragraph__3",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #3",
+    "preview": "Olympic Silver medallist, London 2012. Multiple Olympic medals across his career."
+  },
+  {
+    "id": "home__champions__paragraph__4",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #4",
+    "preview": "Rose to become England's No.1 Under-13 player under Abdul's coaching at DTTC."
+  },
+  {
+    "id": "home__champions__paragraph__5",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #5",
+    "preview": "Gold medallist at Belgium Ostend 2011, 2012 & 2013. Started training at just 15 years old."
+  },
+  {
+    "id": "home__champions__paragraph__6",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #6",
+    "preview": "Gold & Silver medallist at Belgium Ostend 2011–2013. Began training at 15 years old."
+  },
+  {
+    "id": "home__champions__paragraph__7",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #7",
+    "preview": "Gold medallist Belgium Ostend 2011 & 2013. Started his journey at DTTC from just 5 years old."
+  },
+  {
+    "id": "home__champions__paragraph__8",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #8",
+    "preview": "Prepared the Welsh national team for the Commonwealth Games 2009–2010."
+  },
+  {
+    "id": "home__champions__paragraph__9",
+    "page": "home",
+    "section": "champions",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / champions / paragraph #9",
+    "preview": "Join the club that has produced champions at every level — from first-timers to Olympians."
+  },
+  {
+    "id": "home__safety__heading__1",
+    "page": "home",
+    "section": "safety",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / safety / heading #1",
+    "preview": "SAFETY FIRST"
+  },
+  {
+    "id": "home__safety__paragraph__1",
+    "page": "home",
+    "section": "safety",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / safety / paragraph #1",
+    "preview": "Your wellbeing is our top priority. Every coach at DTTC is DBS checked, first-aid trained, and committed to the highest safeguarding standar"
+  },
+  {
+    "id": "home__gallery__heading__1",
+    "page": "home",
+    "section": "gallery",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / gallery / heading #1",
+    "preview": "LIFE INSIDE DULWICH TTC"
+  },
+  {
+    "id": "home__gallery__paragraph__1",
+    "page": "home",
+    "section": "gallery",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / gallery / paragraph #1",
+    "preview": "A look inside Dulwich Table Tennis Club — training sessions, tournaments, celebrations, and the community that makes DTTC special."
+  },
+  {
+    "id": "home__gallery__image__1",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #1 (alt: Dulwich Table Tennis Club coaching hall)",
+    "preview": "Dulwich Table Tennis Club coaching hall"
+  },
+  {
+    "id": "home__gallery__image__2",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #2 (alt: Club Tracksuit)",
+    "preview": "Club Tracksuit"
+  },
+  {
+    "id": "home__gallery__image__3",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #3 (alt: Table tennis paddle and ball close-up)",
+    "preview": "Table tennis paddle and ball close-up"
+  },
+  {
+    "id": "home__gallery__image__4",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #4 (alt: Head Coach)",
+    "preview": "Head Coach"
+  },
+  {
+    "id": "home__gallery__image__5",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #5 (alt: Coach Adeoye)",
+    "preview": "Coach Adeoye"
+  },
+  {
+    "id": "home__gallery__image__6",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #6 (alt: Club Trophies)",
+    "preview": "Club Trophies"
+  },
+  {
+    "id": "home__gallery__image__7",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #7 (alt: Team Training)",
+    "preview": "Team Training"
+  },
+  {
+    "id": "home__gallery__image__8",
+    "page": "home",
+    "section": "gallery",
+    "kind": "image",
+    "type": "image",
+    "label": "home / gallery / image #8 (alt: Club Events)",
+    "preview": "Club Events"
+  },
+  {
+    "id": "home__gallery__gallery-list",
+    "page": "home",
+    "section": "gallery",
+    "kind": "container",
+    "type": "gallery-list",
+    "label": "home / gallery / gallery list (add new item here)",
+    "preview": ""
+  },
+  {
+    "id": "home__faq__heading__1",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / faq / heading #1",
+    "preview": "GOT QUESTIONS? WE'VE GOT ANSWERS."
+  },
+  {
+    "id": "home__faq__faq-question__1",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "home / faq / faq question #1",
+    "preview": "Do I need prior experience to join the club?"
+  },
+  {
+    "id": "home__faq__faq-question__2",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "home / faq / faq question #2",
+    "preview": "What equipment do I need to bring?"
+  },
+  {
+    "id": "home__faq__faq-question__3",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "home / faq / faq question #3",
+    "preview": "When and how often do you meet?"
+  },
+  {
+    "id": "home__faq__faq-question__4",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "home / faq / faq question #4",
+    "preview": "Is the club open to juniors and adults?"
+  },
+  {
+    "id": "home__faq__faq-question__5",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "home / faq / faq question #5",
+    "preview": "How do I book a coaching session?"
+  },
+  {
+    "id": "home__faq__faq-question__6",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "home / faq / faq question #6",
+    "preview": "Are there tournaments and competitions?"
+  },
+  {
+    "id": "home__faq__faq-answer__1",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "home / faq / faq answer #1",
+    "preview": "Not at all! Our club welcomes players of all levels, from complete beginners to advanced competitors. We offer coaching and practice session"
+  },
+  {
+    "id": "home__faq__faq-answer__2",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "home / faq / faq answer #2",
+    "preview": "If you have your own paddle, feel free to bring it. However, we also provide paddles and balls for beginners, so you can start playing witho"
+  },
+  {
+    "id": "home__faq__faq-answer__3",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "home / faq / faq answer #3",
+    "preview": "We hold regular sessions at Harris Girls Academy, East Dulwich Grove, SE22 0NR. Saturday sessions run from 1pm to 4pm. Weekday coaching is a"
+  },
+  {
+    "id": "home__faq__faq-answer__4",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "home / faq / faq answer #4",
+    "preview": "Yes! We offer sessions for juniors (from age 6), adults, and seniors. Our goal is to create a fun, inclusive environment where players of al"
+  },
+  {
+    "id": "home__faq__faq-answer__5",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "home / faq / faq answer #5",
+    "preview": "Booking is simple — just message us on WhatsApp at +447821763379 or fill in our online enquiry form. We'll get back to you quickly to confir"
+  },
+  {
+    "id": "home__faq__faq-answer__6",
+    "page": "home",
+    "section": "faq",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "home / faq / faq answer #6",
+    "preview": "Absolutely! We run monthly internal tournaments and support members in entering local and national competitions. Whether you're playing for "
+  },
+  {
+    "id": "home__faq__faq-list",
+    "page": "home",
+    "section": "faq",
+    "kind": "container",
+    "type": "faq-list",
+    "label": "home / faq / faq list (add new item here)",
+    "preview": ""
+  },
+  {
+    "id": "home__global__heading__1",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "home__global__heading__2",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / global / heading #2",
+    "preview": "BOOK YOUR SESSION"
+  },
+  {
+    "id": "home__global__heading__3",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "home / global / heading #3",
+    "preview": "REQUEST SENT!"
+  },
+  {
+    "id": "home__global__paragraph__1",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / global / paragraph #1",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "home__global__paragraph__2",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / global / paragraph #2",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "home__global__paragraph__3",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / global / paragraph #3",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "home__global__paragraph__4",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / global / paragraph #4",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "home__global__paragraph__5",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / global / paragraph #5",
+    "preview": "Fill in your details and we'll confirm your booking via WhatsApp or email."
+  },
+  {
+    "id": "home__global__paragraph__6",
+    "page": "home",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "home / global / paragraph #6",
+    "preview": "Thanks! We'll confirm your session via WhatsApp or email within 24 hours. Chat on WhatsApp for faster confirmation."
+  },
+  {
+    "id": "home__global__image__2",
+    "page": "home",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "home / global / image #2 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "home__global__phone-link__1",
+    "page": "home",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "home / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "services__global__image__1",
+    "page": "services",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "services / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "services__hero__heading__1",
+    "page": "services",
+    "section": "hero",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / hero / heading #1",
+    "preview": "EXPERT COACHING"
+  },
+  {
+    "id": "services__hero__paragraph__1",
+    "page": "services",
+    "section": "hero",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / hero / paragraph #1",
+    "preview": "World-class table tennis coaching for every level — juniors, adults, beginners and elite competitors. Est. 2008, DBS checked coaches, ages 6"
+  },
+  {
+    "id": "services__hero__image__1",
+    "page": "services",
+    "section": "hero",
+    "kind": "image",
+    "type": "image",
+    "label": "services / hero / image #1 (alt: Dulwich Table Tennis Club coaching hall)",
+    "preview": "Dulwich Table Tennis Club coaching hall"
+  },
+  {
+    "id": "services__coaching-packages__heading__1",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / coaching-packages / heading #1",
+    "preview": "PICK YOUR SESSION. START YOUR JOURNEY."
+  },
+  {
+    "id": "services__coaching-packages__paragraph__1",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / coaching-packages / paragraph #1",
+    "preview": "Choose the coaching package that suits your goals, schedule, and budget. All sessions are led by our expert, DBS-checked coaches."
+  },
+  {
+    "id": "services__coaching-packages__paragraph__2",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / coaching-packages / paragraph #2",
+    "preview": "▶ Tap a card to watch it in action on our YouTube channel."
+  },
+  {
+    "id": "services__coaching-packages__image__1",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "image",
+    "type": "image",
+    "label": "services / coaching-packages / image #1 (alt: Quick Start session)",
+    "preview": "Quick Start session"
+  },
+  {
+    "id": "services__coaching-packages__image__2",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "image",
+    "type": "image",
+    "label": "services / coaching-packages / image #2 (alt: 1-on-1 Coaching)",
+    "preview": "1-on-1 Coaching"
+  },
+  {
+    "id": "services__coaching-packages__image__3",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "image",
+    "type": "image",
+    "label": "services / coaching-packages / image #3 (alt: Share Coaching)",
+    "preview": "Share Coaching"
+  },
+  {
+    "id": "services__coaching-packages__image__4",
+    "page": "services",
+    "section": "coaching-packages",
+    "kind": "image",
+    "type": "image",
+    "label": "services / coaching-packages / image #4 (alt: 30 Min Session)",
+    "preview": "30 Min Session"
+  },
+  {
+    "id": "services__schools-coaching__heading__1",
+    "page": "services",
+    "section": "schools-coaching",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / schools-coaching / heading #1",
+    "preview": "SCHOOLS & INSTITUTIONS"
+  },
+  {
+    "id": "services__schools-coaching__paragraph__1",
+    "page": "services",
+    "section": "schools-coaching",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / schools-coaching / paragraph #1",
+    "preview": "Tailored group coaching programmes for schools and organisations. We bring professional table tennis coaching directly to you."
+  },
+  {
+    "id": "services__coaching-categories__heading__1",
+    "page": "services",
+    "section": "coaching-categories",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / coaching-categories / heading #1",
+    "preview": "COACHING FOR EVERYONE"
+  },
+  {
+    "id": "services__coaching-categories__paragraph__1",
+    "page": "services",
+    "section": "coaching-categories",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / coaching-categories / paragraph #1",
+    "preview": "From absolute beginners to elite competitors — our programmes are built for every age group and skill level."
+  },
+  {
+    "id": "services__our-coaches__heading__1",
+    "page": "services",
+    "section": "our-coaches",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / our-coaches / heading #1",
+    "preview": "OUR COACHES"
+  },
+  {
+    "id": "services__our-coaches__paragraph__1",
+    "page": "services",
+    "section": "our-coaches",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / our-coaches / paragraph #1",
+    "preview": "Learn from South London's finest. Every coach is DBS checked, professionally trained, and passionate about developing players at every level"
+  },
+  {
+    "id": "services__our-coaches__image__1",
+    "page": "services",
+    "section": "our-coaches",
+    "kind": "image",
+    "type": "image",
+    "label": "services / our-coaches / image #1 (alt: Abdul Wuraola — Head Coach)",
+    "preview": "Abdul Wuraola — Head Coach"
+  },
+  {
+    "id": "services__our-coaches__image__2",
+    "page": "services",
+    "section": "our-coaches",
+    "kind": "image",
+    "type": "image",
+    "label": "services / our-coaches / image #2 (alt: Adeoye Adewale — Coach)",
+    "preview": "Adeoye Adewale — Coach"
+  },
+  {
+    "id": "services__safety-standards__heading__1",
+    "page": "services",
+    "section": "safety-standards",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / safety-standards / heading #1",
+    "preview": "SAFETY FIRST"
+  },
+  {
+    "id": "services__safety-standards__paragraph__1",
+    "page": "services",
+    "section": "safety-standards",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / safety-standards / paragraph #1",
+    "preview": "Every player, every session — safe, welcoming and fully inclusive. We hold ourselves to the highest safeguarding standards."
+  },
+  {
+    "id": "services__global__heading__1",
+    "page": "services",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "services / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "services__global__paragraph__1",
+    "page": "services",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / global / paragraph #1",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "services__global__paragraph__2",
+    "page": "services",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / global / paragraph #2",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "services__global__paragraph__3",
+    "page": "services",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / global / paragraph #3",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "services__global__paragraph__4",
+    "page": "services",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "services / global / paragraph #4",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "services__global__image__2",
+    "page": "services",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "services / global / image #2 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "services__global__phone-link__1",
+    "page": "services",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "services / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "membership__global__image__1",
+    "page": "membership",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "membership / global / image #1 (alt: Dulwich TTC Logo)",
+    "preview": "Dulwich TTC Logo"
+  },
+  {
+    "id": "membership__hero__heading__1",
+    "page": "membership",
+    "section": "hero",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / hero / heading #1",
+    "preview": "MEMBERSHIP PLANS"
+  },
+  {
+    "id": "membership__hero__paragraph__1",
+    "page": "membership",
+    "section": "hero",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / hero / paragraph #1",
+    "preview": "Find the right plan for your game. Affordable sessions, flexible options, and a welcoming community waiting for you — from beginners to seas"
+  },
+  {
+    "id": "membership__hero__image__1",
+    "page": "membership",
+    "section": "hero",
+    "kind": "image",
+    "type": "image",
+    "label": "membership / hero / image #1 (alt: Dulwich TTC Membership)",
+    "preview": "Dulwich TTC Membership"
+  },
+  {
+    "id": "membership__coaching-payg__heading__1",
+    "page": "membership",
+    "section": "coaching-payg",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / coaching-payg / heading #1",
+    "preview": "NOT READY FOR A PLAN? PLAY AS YOU GO"
+  },
+  {
+    "id": "membership__coaching-payg__paragraph__1",
+    "page": "membership",
+    "section": "coaching-payg",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / coaching-payg / paragraph #1",
+    "preview": "Prefer to pay per session? Book one-on-one coaching, share coaching, or drop in with our Guest Plan — no commitment required."
+  },
+  {
+    "id": "membership__coaching-payg__paragraph__2",
+    "page": "membership",
+    "section": "coaching-payg",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / coaching-payg / paragraph #2",
+    "preview": "No membership needed — just turn up and play. Perfect for visitors, guests, and casual players."
+  },
+  {
+    "id": "membership__coming-soon__heading__1",
+    "page": "membership",
+    "section": "coming-soon",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / coming-soon / heading #1",
+    "preview": "MORE PLANS INCOMING"
+  },
+  {
+    "id": "membership__coming-soon__heading__2",
+    "page": "membership",
+    "section": "coming-soon",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / coming-soon / heading #2",
+    "preview": "Specially Curated Plans"
+  },
+  {
+    "id": "membership__coming-soon__paragraph__1",
+    "page": "membership",
+    "section": "coming-soon",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / coming-soon / paragraph #1",
+    "preview": "We're crafting bespoke membership plans tailored to juniors, families, and dedicated competitors. Be the first to know when they launch."
+  },
+  {
+    "id": "membership__programs__heading__1",
+    "page": "membership",
+    "section": "programs",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / programs / heading #1",
+    "preview": "WHAT WE OFFER"
+  },
+  {
+    "id": "membership__programs__heading__2",
+    "page": "membership",
+    "section": "programs",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / programs / heading #2",
+    "preview": "Monthly Tournament"
+  },
+  {
+    "id": "membership__programs__heading__3",
+    "page": "membership",
+    "section": "programs",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / programs / heading #3",
+    "preview": "Junior League"
+  },
+  {
+    "id": "membership__programs__heading__4",
+    "page": "membership",
+    "section": "programs",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / programs / heading #4",
+    "preview": "Club Championship"
+  },
+  {
+    "id": "membership__programs__heading__5",
+    "page": "membership",
+    "section": "programs",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / programs / heading #5",
+    "preview": "Social Visits"
+  },
+  {
+    "id": "membership__programs__paragraph__1",
+    "page": "membership",
+    "section": "programs",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / programs / paragraph #1",
+    "preview": "From competitive tournaments to social sessions, there's a program for every type of player."
+  },
+  {
+    "id": "membership__faq-section__heading__1",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / faq-section / heading #1",
+    "preview": "GOT QUESTIONS? WE'VE GOT ANSWERS."
+  },
+  {
+    "id": "membership__faq-section__faq-question__1",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "membership / faq-section / faq question #1",
+    "preview": "Do I need prior experience to join the club?"
+  },
+  {
+    "id": "membership__faq-section__faq-question__2",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "membership / faq-section / faq question #2",
+    "preview": "What equipment do I need to bring?"
+  },
+  {
+    "id": "membership__faq-section__faq-question__3",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "membership / faq-section / faq question #3",
+    "preview": "When and how often do you meet?"
+  },
+  {
+    "id": "membership__faq-section__faq-question__4",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "membership / faq-section / faq question #4",
+    "preview": "Is the club open to juniors and adults?"
+  },
+  {
+    "id": "membership__faq-section__faq-question__5",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "membership / faq-section / faq question #5",
+    "preview": "How do I book a coaching session?"
+  },
+  {
+    "id": "membership__faq-section__faq-question__6",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-question",
+    "label": "membership / faq-section / faq question #6",
+    "preview": "Are there tournaments and competitions?"
+  },
+  {
+    "id": "membership__faq-section__faq-answer__1",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "membership / faq-section / faq answer #1",
+    "preview": "Not at all! Our club welcomes players of all levels, from complete beginners to advanced competitors. We offer coaching and practice session"
+  },
+  {
+    "id": "membership__faq-section__faq-answer__2",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "membership / faq-section / faq answer #2",
+    "preview": "If you have your own paddle, feel free to bring it. However, we also provide paddles and balls for beginners, so you can start playing witho"
+  },
+  {
+    "id": "membership__faq-section__faq-answer__3",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "membership / faq-section / faq answer #3",
+    "preview": "We hold regular sessions at Harris Girls Academy, East Dulwich Grove, SE22 0NR. Saturday sessions run from 1pm to 4pm. Weekday coaching is a"
+  },
+  {
+    "id": "membership__faq-section__faq-answer__4",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "membership / faq-section / faq answer #4",
+    "preview": "Yes! We offer sessions for juniors (from age 6), adults, and seniors. Our goal is to create a fun, inclusive environment where players of al"
+  },
+  {
+    "id": "membership__faq-section__faq-answer__5",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "membership / faq-section / faq answer #5",
+    "preview": "Booking is simple — just message us on WhatsApp at +447821763379 or fill in our online enquiry form. We'll get back to you quickly to confir"
+  },
+  {
+    "id": "membership__faq-section__faq-answer__6",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "text",
+    "type": "faq-answer",
+    "label": "membership / faq-section / faq answer #6",
+    "preview": "Absolutely! We run monthly internal tournaments and support members in entering local and national competitions. Whether you're playing for "
+  },
+  {
+    "id": "membership__faq-section__faq-list",
+    "page": "membership",
+    "section": "faq-section",
+    "kind": "container",
+    "type": "faq-list",
+    "label": "membership / faq-section / faq list (add new item here)",
+    "preview": ""
+  },
+  {
+    "id": "membership__global__heading__1",
+    "page": "membership",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "membership / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "membership__global__paragraph__1",
+    "page": "membership",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / global / paragraph #1",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "membership__global__paragraph__2",
+    "page": "membership",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / global / paragraph #2",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "membership__global__paragraph__3",
+    "page": "membership",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / global / paragraph #3",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "membership__global__paragraph__4",
+    "page": "membership",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "membership / global / paragraph #4",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "membership__global__image__2",
+    "page": "membership",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "membership / global / image #2 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "membership__global__phone-link__1",
+    "page": "membership",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "membership / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "champions__global__image__1",
+    "page": "champions",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "champions / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "champions__hero__heading__1",
+    "page": "champions",
+    "section": "hero",
+    "kind": "text",
+    "type": "heading",
+    "label": "champions / hero / heading #1",
+    "preview": "CHAMPIONS WE'VE BUILT"
+  },
+  {
+    "id": "champions__hero__paragraph__1",
+    "page": "champions",
+    "section": "hero",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / hero / paragraph #1",
+    "preview": "We coach all ages at any level — from an absolute beginner to grand champion!"
+  },
+  {
+    "id": "champions__hero__image__1",
+    "page": "champions",
+    "section": "hero",
+    "kind": "image",
+    "type": "image",
+    "label": "champions / hero / image #1 (alt: Dulwich Table Tennis Club Champions)",
+    "preview": "Dulwich Table Tennis Club Champions"
+  },
+  {
+    "id": "champions__coach-story__heading__1",
+    "page": "champions",
+    "section": "coach-story",
+    "kind": "text",
+    "type": "heading",
+    "label": "champions / coach-story / heading #1",
+    "preview": "A LEGACY OF DEVELOPMENT"
+  },
+  {
+    "id": "champions__coach-story__paragraph__1",
+    "page": "champions",
+    "section": "coach-story",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / coach-story / paragraph #1",
+    "preview": "Abdul Wuraola has spent many years working closely with young people in both school and community settings, helping to nurture their persona"
+  },
+  {
+    "id": "champions__coach-story__paragraph__2",
+    "page": "champions",
+    "section": "coach-story",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / coach-story / paragraph #2",
+    "preview": "He has coached athletes at the highest level — including one who has won 7 Olympic medals , including Silver at the 2012 London Olympics. Ab"
+  },
+  {
+    "id": "champions__coach-story__image__1",
+    "page": "champions",
+    "section": "coach-story",
+    "kind": "image",
+    "type": "image",
+    "label": "champions / coach-story / image #1 (alt: Abdul Wuraola — Head Coach)",
+    "preview": "Abdul Wuraola — Head Coach"
+  },
+  {
+    "id": "champions__athletes__heading__1",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "heading",
+    "label": "champions / athletes / heading #1",
+    "preview": "ATHLETES WE'VE COACHED"
+  },
+  {
+    "id": "champions__athletes__paragraph__1",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #1",
+    "preview": "From beginners to Olympians — every journey matters"
+  },
+  {
+    "id": "champions__athletes__paragraph__2",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #2",
+    "preview": "Abdul prepared the Welsh national team ahead of the Commonwealth Games, bringing elite international-level coaching to national squad traini"
+  },
+  {
+    "id": "champions__athletes__paragraph__3",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #3",
+    "preview": "A student in Year 7 who turned out to be a teacher in the same school in 2024 — a testament to the lasting impact of coaching at DTTC."
+  },
+  {
+    "id": "champions__athletes__paragraph__4",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #4",
+    "preview": "One of the many names to have come through DTTC's doors over the years, reflecting the club's wide-reaching community."
+  },
+  {
+    "id": "champions__athletes__paragraph__5",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #5",
+    "preview": "Olympic Silver medallist, London 2012. Multiple Olympic medals across his career. Coached by Abdul from DTTC — one of the club's proudest ac"
+  },
+  {
+    "id": "champions__athletes__paragraph__6",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #6",
+    "preview": "Rose to become England's No.1 Under-13 player. Coached by Abdul from DTTC — a testament to world-class junior development."
+  },
+  {
+    "id": "champions__athletes__paragraph__7",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #7",
+    "preview": "Gold medallist at Belgium Ostend 2011, 2012 & 2013. Started training at just 15 years old — a truly remarkable young talent."
+  },
+  {
+    "id": "champions__athletes__paragraph__8",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #8",
+    "preview": "Began training at 15 and won Gold and Silver medals at Belgium Ostend across three consecutive years. An inspiration to young players everyw"
+  },
+  {
+    "id": "champions__athletes__paragraph__9",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #9",
+    "preview": "Started table tennis at just 5 years old under Abdul's guidance. Won Gold medals at Belgium Ostend in 2011 and 2013 — proof that early devel"
+  },
+  {
+    "id": "champions__athletes__paragraph__10",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #10",
+    "preview": "Won Silver at the Belgium international tournament — Elmgreen School's first-ever achievement of this kind, coached by Abdul from DTTC."
+  },
+  {
+    "id": "champions__athletes__paragraph__11",
+    "page": "champions",
+    "section": "athletes",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / athletes / paragraph #11",
+    "preview": "Began training at 14 years old. Achieved Silver and Bronze medals at Belgium Ostend in 2012 and 2013 — a brilliant young competitor."
+  },
+  {
+    "id": "champions__community__heading__1",
+    "page": "champions",
+    "section": "community",
+    "kind": "text",
+    "type": "heading",
+    "label": "champions / community / heading #1",
+    "preview": "WHERE WE'VE COACHED"
+  },
+  {
+    "id": "champions__community__paragraph__1",
+    "page": "champions",
+    "section": "community",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / community / paragraph #1",
+    "preview": "From South London schools to international institutions — our reach is wide"
+  },
+  {
+    "id": "champions__cta__heading__1",
+    "page": "champions",
+    "section": "cta",
+    "kind": "text",
+    "type": "heading",
+    "label": "champions / cta / heading #1",
+    "preview": "YOUR SUCCESS STORY STARTS HERE"
+  },
+  {
+    "id": "champions__cta__paragraph__1",
+    "page": "champions",
+    "section": "cta",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / cta / paragraph #1",
+    "preview": "Join South London's most successful table tennis club. Book your first session today."
+  },
+  {
+    "id": "champions__global__heading__1",
+    "page": "champions",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "champions / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "champions__global__paragraph__1",
+    "page": "champions",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / global / paragraph #1",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "champions__global__paragraph__2",
+    "page": "champions",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / global / paragraph #2",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "champions__global__paragraph__3",
+    "page": "champions",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / global / paragraph #3",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "champions__global__paragraph__4",
+    "page": "champions",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "champions / global / paragraph #4",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "champions__global__image__2",
+    "page": "champions",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "champions / global / image #2 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "champions__global__phone-link__1",
+    "page": "champions",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "champions / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "policy__global__image__1",
+    "page": "policy",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "policy / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "policy__policy-hero__heading__1",
+    "page": "policy",
+    "section": "policy-hero",
+    "kind": "text",
+    "type": "heading",
+    "label": "policy / policy-hero / heading #1",
+    "preview": "POLICY & MISSION"
+  },
+  {
+    "id": "policy__policy-hero__paragraph__1",
+    "page": "policy",
+    "section": "policy-hero",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / policy-hero / paragraph #1",
+    "preview": "Dulwich Table Tennis Club is committed to a safe, inclusive and high-performance environment — from our youngest juniors to Olympic-level co"
+  },
+  {
+    "id": "policy__policy-hero__image__1",
+    "page": "policy",
+    "section": "policy-hero",
+    "kind": "image",
+    "type": "image",
+    "label": "policy / policy-hero / image #1 (alt: Dulwich Table Tennis Club Policy & Mission)",
+    "preview": "Dulwich Table Tennis Club Policy & Mission"
+  },
+  {
+    "id": "policy__global__heading__1",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "policy / global / heading #1",
+    "preview": "MISSION STATEMENT"
+  },
+  {
+    "id": "policy__global__heading__2",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "policy / global / heading #2",
+    "preview": "MEMBERSHIP POLICY & CLUB TERMS"
+  },
+  {
+    "id": "policy__global__heading__3",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "policy / global / heading #3",
+    "preview": "SAFEGUARDING POLICY"
+  },
+  {
+    "id": "policy__global__heading__4",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "policy / global / heading #4",
+    "preview": "PRIVACY POLICY"
+  },
+  {
+    "id": "policy__global__heading__5",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "policy / global / heading #5",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "policy__global__paragraph__1",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #1",
+    "preview": "Introduce young people to sport and activities so that they can make good use of their leisure time and improve their wellbeing."
+  },
+  {
+    "id": "policy__global__paragraph__2",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #2",
+    "preview": "Provide a positive alternative space — enabling young people to realise their potential, develop confidence, and understand the role of a re"
+  },
+  {
+    "id": "policy__global__paragraph__3",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #3",
+    "preview": "Ensure young people aged 5–19 and above can afford to use the facilities, particularly those from less privileged backgrounds."
+  },
+  {
+    "id": "policy__global__paragraph__4",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #4",
+    "preview": "Increase sport skills of local young people and increase take-up of local clubs and new multi-sport venues across the community."
+  },
+  {
+    "id": "policy__global__paragraph__5",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #5",
+    "preview": "Increase the level of physical activity amongst the young in the borough, and as a consequence improve their health, wellbeing and quality o"
+  },
+  {
+    "id": "policy__global__paragraph__6",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #6",
+    "preview": "Improve community safety by reducing antisocial behaviour and crime — engaging significantly more young people in organised sport on a conti"
+  },
+  {
+    "id": "policy__global__paragraph__7",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #7",
+    "preview": "Raise educational achievement by increasing participation in sport and physical education, and provide a comprehensive programme of vocation"
+  },
+  {
+    "id": "policy__global__paragraph__8",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #8",
+    "preview": "Contribute to community cohesion by providing sports-related vocational training — including coaching, umpiring, game analysis, and more — t"
+  },
+  {
+    "id": "policy__global__paragraph__9",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #9",
+    "preview": "Promote excellence and enjoyment through active senior players who act as role models, inspiring and mentoring the next generation of junior"
+  },
+  {
+    "id": "policy__global__paragraph__10",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #10",
+    "preview": "Introduce racial harmony between the youths of London through sport, and engage in family fun — building bridges across communities through "
+  },
+  {
+    "id": "policy__global__paragraph__11",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #11",
+    "preview": "The club does not provide balls and bats. Members must carry their bats and balls at all times when visiting the Sports Club."
+  },
+  {
+    "id": "policy__global__paragraph__12",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #12",
+    "preview": "A Joining Fee is payable at the time of joining the Club or on your first visit. The Joining Fee is non-refundable and becomes payable again"
+  },
+  {
+    "id": "policy__global__paragraph__13",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #13",
+    "preview": "The Joining Fee payment is payable by cheque, PayPal, or club account at the time of joining."
+  },
+  {
+    "id": "policy__global__paragraph__14",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #14",
+    "preview": "Coaching Membership subscriptions are payable by monthly Bank/Building Society Standing Order or PayPal. Payments are drawn from your accoun"
+  },
+  {
+    "id": "policy__global__paragraph__15",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #15",
+    "preview": "Coaching Membership will be suspended immediately if the Club is unable to collect a due payment on the 1st of the due date. Members will ha"
+  },
+  {
+    "id": "policy__global__paragraph__16",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #16",
+    "preview": "Membership prices are subject to change at any time. The annual review normally takes place in July . Members will be informed of any change"
+  },
+  {
+    "id": "policy__global__paragraph__17",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #17",
+    "preview": "There is no minimum term contract . Coaching Membership may be cancelled at any time by giving one month's notice in writing by email to inf"
+  },
+  {
+    "id": "policy__global__paragraph__18",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #18",
+    "preview": "In exceptional circumstances (e.g. long-term illness, working abroad), membership may be suspended for between 2–6 full calendar months at t"
+  },
+  {
+    "id": "policy__global__paragraph__19",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #19",
+    "preview": "Cancellation of any bookable activities within 24 hours of the scheduled start time may result in a cancellation charge. This also applies t"
+  },
+  {
+    "id": "policy__global__paragraph__20",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #20",
+    "preview": "The Club reserves the right to close some or all facilities for:"
+  },
+  {
+    "id": "policy__global__paragraph__21",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #21",
+    "preview": "These periods will not normally exceed one week , and ample notice will be given wherever possible."
+  },
+  {
+    "id": "policy__global__paragraph__22",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #22",
+    "preview": "For safety reasons, children must come with a drink and will not be permitted to leave the Playing Area without reasonable cause."
+  },
+  {
+    "id": "policy__global__paragraph__23",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #23",
+    "preview": "Dulwich Table Tennis Club is fully committed to the safety and welfare of all children and young people in our care. The wellbeing of every "
+  },
+  {
+    "id": "policy__global__paragraph__24",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #24",
+    "preview": "All coaches and staff who work with children at DTTC hold a valid Enhanced DBS (Disclosure and Barring Service) check, renewed regularly in "
+  },
+  {
+    "id": "policy__global__paragraph__25",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #25",
+    "preview": "If you have any concerns about the welfare or safety of a child at DTTC, contact us at info@dulwichttc.com or call +44 7821 763379. For urge"
+  },
+  {
+    "id": "policy__global__paragraph__26",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #26",
+    "preview": "This safeguarding policy is reviewed annually. Last reviewed: January 2026."
+  },
+  {
+    "id": "policy__global__paragraph__27",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #27",
+    "preview": "Dulwich Table Tennis Club (\"DTTC\", \"we\", \"us\", \"our\") is a sports club based at Harris Girls Academy, SE22 0NR, South London. Company Number"
+  },
+  {
+    "id": "policy__global__paragraph__28",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #28",
+    "preview": "We retain your personal data for as long as you remain an active member or as required by law. You may request deletion of your data at any "
+  },
+  {
+    "id": "policy__global__paragraph__29",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #29",
+    "preview": "Under UK GDPR, you have the right to access, correct, delete, and restrict the processing of your personal data. Contact us in writing at in"
+  },
+  {
+    "id": "policy__global__paragraph__30",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #30",
+    "preview": "For any privacy-related queries, contact us at: info@dulwichttc.com or +44 7821 763379."
+  },
+  {
+    "id": "policy__global__paragraph__31",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #31",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "policy__global__paragraph__32",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #32",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "policy__global__paragraph__33",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #33",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "policy__global__paragraph__34",
+    "page": "policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "policy / global / paragraph #34",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "policy__global__image__2",
+    "page": "policy",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "policy / global / image #2 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "policy__global__phone-link__1",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "policy / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "policy__global__email-link__1",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "policy / global / email link #1",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "policy__global__email-link__2",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "policy / global / email link #2",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "policy__global__email-link__3",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "policy / global / email link #3",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "policy__global__email-link__4",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "policy / global / email link #4",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "policy__global__email-link__5",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "policy / global / email link #5",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "policy__global__email-link__6",
+    "page": "policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "policy / global / email link #6",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "contact__global__image__1",
+    "page": "contact",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "contact / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "contact__hero__heading__1",
+    "page": "contact",
+    "section": "hero",
+    "kind": "text",
+    "type": "heading",
+    "label": "contact / hero / heading #1",
+    "preview": "CONTACT US"
+  },
+  {
+    "id": "contact__hero__paragraph__1",
+    "page": "contact",
+    "section": "hero",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "contact / hero / paragraph #1",
+    "preview": "Have questions? Ready to join? We'd love to hear from you. Reach out and our team will get back to you shortly."
+  },
+  {
+    "id": "contact__hero__image__1",
+    "page": "contact",
+    "section": "hero",
+    "kind": "image",
+    "type": "image",
+    "label": "contact / hero / image #1 (alt: Harris Girls Academy Venue — Dulwich Table Tennis Club hall)",
+    "preview": "Harris Girls Academy Venue — Dulwich Table Tennis Club hall"
+  },
+  {
+    "id": "contact__contact__heading__1",
+    "page": "contact",
+    "section": "contact",
+    "kind": "text",
+    "type": "heading",
+    "label": "contact / contact / heading #1",
+    "preview": "LET'S GET YOU ON THE TABLE"
+  },
+  {
+    "id": "contact__contact__email-link__1",
+    "page": "contact",
+    "section": "contact",
+    "kind": "link",
+    "type": "email-link",
+    "label": "contact / contact / email link #1",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "contact__cta__heading__1",
+    "page": "contact",
+    "section": "cta",
+    "kind": "text",
+    "type": "heading",
+    "label": "contact / cta / heading #1",
+    "preview": "READY TO START PLAYING?"
+  },
+  {
+    "id": "contact__cta__paragraph__1",
+    "page": "contact",
+    "section": "cta",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "contact / cta / paragraph #1",
+    "preview": "Join South London's most active table tennis club. All ages, all levels welcome."
+  },
+  {
+    "id": "contact__global__heading__1",
+    "page": "contact",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "contact / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "contact__global__paragraph__1",
+    "page": "contact",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "contact / global / paragraph #1",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "contact__global__paragraph__2",
+    "page": "contact",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "contact / global / paragraph #2",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "contact__global__paragraph__3",
+    "page": "contact",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "contact / global / paragraph #3",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "contact__global__paragraph__4",
+    "page": "contact",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "contact / global / paragraph #4",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "contact__global__image__2",
+    "page": "contact",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "contact / global / image #2 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "contact__global__phone-link__1",
+    "page": "contact",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "contact / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "club-account__global__image__1",
+    "page": "club-account",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "club-account / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "club-account__ca-hero__heading__1",
+    "page": "club-account",
+    "section": "ca-hero",
+    "kind": "text",
+    "type": "heading",
+    "label": "club-account / ca-hero / heading #1",
+    "preview": "CLUB ACCOUNT & PAYMENTS"
+  },
+  {
+    "id": "club-account__ca-hero__paragraph__1",
+    "page": "club-account",
+    "section": "ca-hero",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "club-account / ca-hero / paragraph #1",
+    "preview": "Pay your membership or coaching fees securely via bank transfer or PayPal. Fast, easy, and trusted by our members since 2008."
+  },
+  {
+    "id": "club-account__ca-hero__image__1",
+    "page": "club-account",
+    "section": "ca-hero",
+    "kind": "image",
+    "type": "image",
+    "label": "club-account / ca-hero / image #1 (alt: Dulwich TTC Club)",
+    "preview": "Dulwich TTC Club"
+  },
+  {
+    "id": "club-account__global__heading__1",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "club-account / global / heading #1",
+    "preview": "CLUB ACCOUNTS"
+  },
+  {
+    "id": "club-account__global__paragraph__1",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "club-account / global / paragraph #1",
+    "preview": "After successful payment please fill the following form with all details of payment."
+  },
+  {
+    "id": "club-account__global__image__2",
+    "page": "club-account",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "club-account / global / image #2 (alt: PayPal)",
+    "preview": "PayPal"
+  },
+  {
+    "id": "club-account__section-at-14060__heading__1",
+    "page": "club-account",
+    "section": "section-at-14060",
+    "kind": "text",
+    "type": "heading",
+    "label": "club-account / section-at-14060 / heading #1",
+    "preview": "3 SIMPLE STEPS TO COMPLETE PAYMENT"
+  },
+  {
+    "id": "club-account__global__heading__2",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "club-account / global / heading #2",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "club-account__global__paragraph__2",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "club-account / global / paragraph #2",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "club-account__global__paragraph__3",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "club-account / global / paragraph #3",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "club-account__global__paragraph__4",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "club-account / global / paragraph #4",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "club-account__global__paragraph__5",
+    "page": "club-account",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "club-account / global / paragraph #5",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "club-account__global__image__3",
+    "page": "club-account",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "club-account / global / image #3 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "club-account__global__phone-link__1",
+    "page": "club-account",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "club-account / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "terms__section-at-636__heading__1",
+    "page": "terms",
+    "section": "section-at-636",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / section-at-636 / heading #1",
+    "preview": "Website Terms"
+  },
+  {
+    "id": "terms__section-at-636__paragraph__1",
+    "page": "terms",
+    "section": "section-at-636",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / section-at-636 / paragraph #1",
+    "preview": "Last updated: January 2026 · Dulwich Table Tennis Club"
+  },
+  {
+    "id": "terms__global__heading__1",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "terms__global__heading__2",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #2",
+    "preview": "Acceptance of Terms"
+  },
+  {
+    "id": "terms__global__heading__3",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #3",
+    "preview": "Membership & Payments"
+  },
+  {
+    "id": "terms__global__heading__4",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #4",
+    "preview": "Conduct & Behaviour"
+  },
+  {
+    "id": "terms__global__heading__5",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #5",
+    "preview": "Health & Safety"
+  },
+  {
+    "id": "terms__global__heading__6",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #6",
+    "preview": "Photography & Media"
+  },
+  {
+    "id": "terms__global__heading__7",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "terms / global / heading #7",
+    "preview": "Governing Law"
+  },
+  {
+    "id": "terms__global__paragraph__1",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #1",
+    "preview": "By using our services, attending sessions, or becoming a member of Dulwich Table Tennis Club, you agree to be bound by these Terms and Condi"
+  },
+  {
+    "id": "terms__global__paragraph__2",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #2",
+    "preview": "Members participate in club activities at their own risk. DTTC is not liable for injuries sustained during training or competition unless ca"
+  },
+  {
+    "id": "terms__global__paragraph__3",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #3",
+    "preview": "DTTC may take photographs or video at club sessions for promotional purposes. Consent will be sought before using images of minors. You may "
+  },
+  {
+    "id": "terms__global__paragraph__4",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #4",
+    "preview": "These terms are governed by and construed in accordance with the laws of England and Wales. Any disputes shall be subject to the exclusive j"
+  },
+  {
+    "id": "terms__global__paragraph__5",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #5",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "terms__global__paragraph__6",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #6",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "terms__global__paragraph__7",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #7",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "terms__global__paragraph__8",
+    "page": "terms",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "terms / global / paragraph #8",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "terms__global__image__1",
+    "page": "terms",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "terms / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "terms__global__phone-link__1",
+    "page": "terms",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "terms / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "privacy-policy__section-at-640__heading__1",
+    "page": "privacy-policy",
+    "section": "section-at-640",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / section-at-640 / heading #1",
+    "preview": "Privacy Policy"
+  },
+  {
+    "id": "privacy-policy__section-at-640__paragraph__1",
+    "page": "privacy-policy",
+    "section": "section-at-640",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / section-at-640 / paragraph #1",
+    "preview": "Last updated: January 2026 · Dulwich Table Tennis Club"
+  },
+  {
+    "id": "privacy-policy__global__heading__1",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "privacy-policy__global__heading__2",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #2",
+    "preview": "Who We Are"
+  },
+  {
+    "id": "privacy-policy__global__heading__3",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #3",
+    "preview": "Information We Collect"
+  },
+  {
+    "id": "privacy-policy__global__heading__4",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #4",
+    "preview": "How We Use Your Information"
+  },
+  {
+    "id": "privacy-policy__global__heading__5",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #5",
+    "preview": "Data Retention"
+  },
+  {
+    "id": "privacy-policy__global__heading__6",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #6",
+    "preview": "Your Rights"
+  },
+  {
+    "id": "privacy-policy__global__heading__7",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "privacy-policy / global / heading #7",
+    "preview": "Contact"
+  },
+  {
+    "id": "privacy-policy__global__paragraph__1",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #1",
+    "preview": "Dulwich Table Tennis Club (\"DTTC\", \"we\", \"us\", \"our\") is a sports club based at Harris Girls Academy, East Dulwich Grove, SE22 0NR, South Lo"
+  },
+  {
+    "id": "privacy-policy__global__paragraph__2",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #2",
+    "preview": "We may collect the following personal information when you contact us, book sessions, or join as a member:"
+  },
+  {
+    "id": "privacy-policy__global__paragraph__3",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #3",
+    "preview": "We retain your personal data for as long as you remain an active member or as required by law. You may request deletion of your data at any "
+  },
+  {
+    "id": "privacy-policy__global__paragraph__4",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #4",
+    "preview": "Under UK GDPR, you have the right to access, correct, delete, and restrict the processing of your personal data. Contact us in writing at in"
+  },
+  {
+    "id": "privacy-policy__global__paragraph__5",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #5",
+    "preview": "For any privacy-related queries, contact us at: info@dulwichttc.com or +44 7821 763379."
+  },
+  {
+    "id": "privacy-policy__global__paragraph__6",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #6",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "privacy-policy__global__paragraph__7",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #7",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "privacy-policy__global__paragraph__8",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #8",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "privacy-policy__global__paragraph__9",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "privacy-policy / global / paragraph #9",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "privacy-policy__global__image__1",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "privacy-policy / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "privacy-policy__global__phone-link__1",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "privacy-policy / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "privacy-policy__global__email-link__1",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "privacy-policy / global / email link #1",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "privacy-policy__global__email-link__2",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "privacy-policy / global / email link #2",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "privacy-policy__global__email-link__3",
+    "page": "privacy-policy",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "privacy-policy / global / email link #3",
+    "preview": "info@dulwichttc.com"
+  },
+  {
+    "id": "safeguarding__section-at-655__heading__1",
+    "page": "safeguarding",
+    "section": "section-at-655",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / section-at-655 / heading #1",
+    "preview": "Safeguarding Policy"
+  },
+  {
+    "id": "safeguarding__section-at-655__paragraph__1",
+    "page": "safeguarding",
+    "section": "section-at-655",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / section-at-655 / paragraph #1",
+    "preview": "Last updated: January 2026 · Dulwich Table Tennis Club"
+  },
+  {
+    "id": "safeguarding__global__heading__1",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #1",
+    "preview": "READY TO PICK UP A PADDLE?"
+  },
+  {
+    "id": "safeguarding__global__heading__2",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #2",
+    "preview": "Our Commitment"
+  },
+  {
+    "id": "safeguarding__global__heading__3",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #3",
+    "preview": "DBS Checks"
+  },
+  {
+    "id": "safeguarding__global__heading__4",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #4",
+    "preview": "Code of Conduct for Coaches"
+  },
+  {
+    "id": "safeguarding__global__heading__5",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #5",
+    "preview": "Parental Responsibilities"
+  },
+  {
+    "id": "safeguarding__global__heading__6",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #6",
+    "preview": "Reporting Concerns"
+  },
+  {
+    "id": "safeguarding__global__heading__7",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "heading",
+    "label": "safeguarding / global / heading #7",
+    "preview": "Policy Review"
+  },
+  {
+    "id": "safeguarding__global__paragraph__1",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #1",
+    "preview": "Dulwich Table Tennis Club is fully committed to the safety and welfare of all children and young people in our care. The wellbeing of every "
+  },
+  {
+    "id": "safeguarding__global__paragraph__2",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #2",
+    "preview": "All coaches and staff who work with children at DTTC hold a valid Enhanced DBS (Disclosure and Barring Service) check, renewed regularly in "
+  },
+  {
+    "id": "safeguarding__global__paragraph__3",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #3",
+    "preview": "If you have any concerns about the welfare or safety of a child at DTTC, please contact our Welfare Officer immediately at info@dulwichttc.c"
+  },
+  {
+    "id": "safeguarding__global__paragraph__4",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #4",
+    "preview": "This safeguarding policy is reviewed annually and updated in line with current legislation and best practice. Last reviewed: January 2026."
+  },
+  {
+    "id": "safeguarding__global__paragraph__5",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #5",
+    "preview": "Join South London's most active table tennis community — every Saturday at Harris Girls Academy."
+  },
+  {
+    "id": "safeguarding__global__paragraph__6",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #6",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "safeguarding__global__paragraph__7",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #7",
+    "preview": "Est. 2008 · Company No. 16745371"
+  },
+  {
+    "id": "safeguarding__global__paragraph__8",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "text",
+    "type": "paragraph",
+    "label": "safeguarding / global / paragraph #8",
+    "preview": "South London's premier table tennis club. One of the most active community clubs in the region, welcoming players aged 6+, from complete beg"
+  },
+  {
+    "id": "safeguarding__global__image__1",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "image",
+    "type": "image",
+    "label": "safeguarding / global / image #1 (alt: Dulwich Table Tennis Club)",
+    "preview": "Dulwich Table Tennis Club"
+  },
+  {
+    "id": "safeguarding__global__phone-link__1",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "link",
+    "type": "phone-link",
+    "label": "safeguarding / global / phone link #1",
+    "preview": "+447821763379"
+  },
+  {
+    "id": "safeguarding__global__email-link__1",
+    "page": "safeguarding",
+    "section": "global",
+    "kind": "link",
+    "type": "email-link",
+    "label": "safeguarding / global / email link #1",
+    "preview": "info@dulwichttc.com"
+  }
+]
