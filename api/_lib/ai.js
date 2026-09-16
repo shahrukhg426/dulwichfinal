@@ -1,9 +1,9 @@
-// Calls whichever AI provider is configured (OpenAI or Anthropic) and asks it to turn a
+// Calls whichever AI provider is configured (OpenAI, Anthropic or Gemini) and asks it to turn a
 // free-text instruction into a strict JSON list of edit actions against the site's marker manifest.
 // Uses global fetch — no SDK dependency needed.
 
 const SYSTEM_PROMPT = `You are the content-editing assistant inside a website admin panel for Dulwich Table Tennis Club (dulwichttc.com).
-The person chatting with you is the site's admin/manager (not a website visitor). They write in a mix of Roman Urdu and English. Reply to them in the same style: casual Roman Urdu + English mix, short and clear.
+The person chatting with you is the site's admin/manager (not a website visitor). Always reply in clear, professional UK English. Keep replies brief — one or two short sentences confirming what you did or asking one clarifying question. Never pad the reply with extra commentary, disclaimers, or repeated instructions.
 
 You are given:
 1. A MANIFEST: a JSON array of every editable spot on the website. Each entry has:
@@ -21,7 +21,7 @@ Your job: figure out exactly which manifest id(s) the admin wants changed, and p
 
 Respond with ONLY a single JSON object (no markdown fences, no commentary outside the JSON), matching this shape:
 {
-  "reply": "<your short reply to the admin, Roman Urdu/English mix>",
+  "reply": "<your short reply to the admin, in concise UK English>",
   "actions": [
     {
       "type": "edit_text",
@@ -48,7 +48,7 @@ Rules:
   - faq-list -> fields: { "question": "...", "answer": "..." }
   - testimonial-list -> fields: { "text": "...", "name": "...", "role": "...", "initials": "<2 letter initials for the avatar>" }
   - gallery-list -> fields: { "alt": "..." } (the actual image itself comes from the attachment; if none attached, ask for it instead of emitting the action)
-- If you cannot confidently match the request to a specific manifest id (ambiguous, multiple candidates, or the spot doesn't seem to exist), set "actions": [] and use "reply" to ask a short clarifying question (in Roman Urdu/English), optionally listing 2-3 likely candidates by their "label".
+- If you cannot confidently match the request to a specific manifest id (ambiguous, multiple candidates, or the spot doesn't seem to exist), set "actions": [] and use "reply" to ask a short clarifying question in UK English, optionally listing 2-3 likely candidates by their "label".
 - Never fabricate a manifest id that isn't in the given MANIFEST list.
 - Keep "new_text" faithful to what the admin asked — don't add marketing fluff they didn't request, but you may lightly clean up grammar/casing if they clearly want that.
 - You can return multiple actions in one turn if the admin asked for multiple changes at once.
@@ -124,6 +124,30 @@ async function callAnthropic(userContent) {
   return data.content[0].text;
 }
 
+async function callGemini(userContent) {
+  const apiKey = process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY;
+  const model = process.env.AI_MODEL || "gemini-2.5-flash";
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      system_instruction: { parts: [{ text: SYSTEM_PROMPT }] },
+      contents: [{ role: "user", parts: [{ text: userContent }] }],
+      generationConfig: { temperature: 0.2, responseMimeType: "application/json" },
+    }),
+  });
+  if (!res.ok) {
+    const t = await res.text().catch(() => "");
+    throw new Error(`Gemini API error ${res.status}: ${t.slice(0, 500)}`);
+  }
+  const data = await res.json();
+  const candidate = data.candidates && data.candidates[0];
+  const text = candidate && candidate.content && candidate.content.parts && candidate.content.parts[0] && candidate.content.parts[0].text;
+  if (!text) throw new Error("Gemini returned no content (it may have blocked the response)");
+  return text;
+}
+
 function extractJson(text) {
   // Strip markdown code fences if the model added them despite instructions.
   const cleaned = text.trim().replace(/^```(?:json)?/i, "").replace(/```$/, "").trim();
@@ -141,8 +165,10 @@ async function getEditPlan({ message, manifestSubset, history, hasImage }) {
     raw = await callOpenAI(userContent);
   } else if (process.env.ANTHROPIC_API_KEY) {
     raw = await callAnthropic(userContent);
+  } else if (process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY) {
+    raw = await callGemini(userContent);
   } else {
-    throw new Error("No AI provider configured: set OPENAI_API_KEY or ANTHROPIC_API_KEY");
+    throw new Error("No AI provider configured: set OPENAI_API_KEY, ANTHROPIC_API_KEY or GEMINI_API_KEY");
   }
   const parsed = extractJson(raw);
   if (!parsed || typeof parsed !== "object" || !Array.isArray(parsed.actions)) {
