@@ -13,7 +13,7 @@ module.exports = async (req, res) => {
   const { password } = body || {};
 
   if (!password || password !== adminPassword) {
-    return sendJson(res, 401, { error: "Galat password. Dobara try karein." });
+    return sendJson(res, 401, { error: "Incorrect password. Please try again." });
   }
 
   res.setHeader("Set-Cookie", createSessionCookie());
