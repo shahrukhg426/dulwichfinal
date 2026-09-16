@@ -1,0 +1,9 @@
+{
+  "name": "dulwich-ttc-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dulwich TTC static site + AI admin/chatbot content editor (Vercel serverless functions, zero npm dependencies).",
+  "engines": {
+    "node": ">=18"
+  }
+}
