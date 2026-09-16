@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Admin | Dulwich Table Tennis Club</title>
+<link rel="stylesheet" href="admin.css" />
+</head>
+<body>
+
+<!-- ===== Login screen ===== -->
+<div id="loginScreen" class="login-screen">
+  <div class="login-card">
+    <div class="login-logo">DTTC</div>
+    <h1>Admin Panel</h1>
+    <p class="login-sub">Dulwich Table Tennis Club &mdash; content assistant</p>
+    <form id="loginForm">
+      <input type="password" id="passwordInput" placeholder="Admin password" autocomplete="current-password" required />
+      <button type="submit">Log In</button>
+    </form>
+    <div id="loginError" class="login-error"></div>
+  </div>
+</div>
+
+<!-- ===== Admin dashboard ===== -->
+<div id="dashboard" class="dashboard" style="display:none">
+
+  <aside class="sidebar">
+    <div class="sidebar-top">
+      <div class="brand">
+        <span class="brand-badge">DTTC</span>
+        <span class="brand-name">Admin</span>
+      </div>
+      <button id="logoutBtn" class="logout-btn" title="Log out">Log out</button>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Pages</div>
+      <div class="chip-list" id="pageChips">
+        <button class="chip" data-text="Home page ke ">Home</button>
+        <button class="chip" data-text="Services page ke ">Services</button>
+        <button class="chip" data-text="Membership page ke ">Membership</button>
+        <button class="chip" data-text="Champions page ke ">Champions</button>
+        <button class="chip" data-text="Contact page ke ">Contact</button>
+        <button class="chip" data-text="Policy page ke ">Policy</button>
+        <button class="chip" data-text="Club account page ke ">Club Account</button>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Kaise likhein</div>
+      <ul class="tips">
+        <li>"Home page ke about section ka text yeh kar do: ..."</li>
+        <li>"Contact page ka phone number 07xxxxxxxxx kar do"</li>
+        <li>"FAQ me naya sawal add karo: ..."</li>
+        <li>Image badalne ke liye pehle 📎 se photo attach karein, phir batayein kis section me lagani hai</li>
+      </ul>
+    </div>
+
+    <div class="sidebar-footer">Changes 1&ndash;2 minute me live site par nazar aayenge.</div>
+  </aside>
+
+  <main class="chat-main">
+    <header class="chat-header">
+      <div>
+        <div class="chat-title">Content Assistant</div>
+        <div class="chat-subtitle">dulwichttc.com</div>
+      </div>
+      <a class="view-site-link" href="https://www.dulwichttc.com" target="_blank" rel="noopener">View live site &rarr;</a>
+    </header>
+
+    <div class="chat-messages" id="chatMessages">
+      <div class="msg msg-bot">
+        <div class="msg-bubble">
+          Assalam-o-Alaikum! Mujhe batayein kis page ke kis section me kya add ya change karna hai &mdash; text ho ya image, main site par update kar dunga.
+        </div>
+      </div>
+    </div>
+
+    <div class="chat-input-bar">
+      <div id="imagePreview" class="image-preview" style="display:none">
+        <img id="imagePreviewThumb" src="" alt="" />
+        <span id="imagePreviewName"></span>
+        <button id="removeImageBtn" type="button">&times;</button>
+      </div>
+      <form id="chatForm" class="chat-form">
+        <label class="attach-btn" title="Image attach karein">
+          📎
+          <input type="file" id="imageInput" accept="image/*" hidden />
+        </label>
+        <textarea id="messageInput" rows="1" placeholder="Message likhein... (e.g. Home page ke hero heading ko yeh kar do: ...)"></textarea>
+        <button type="submit" id="sendBtn">Send</button>
+      </form>
+    </div>
+  </main>
+</div>
+
+<script src="admin.js"></script>
+</body>
+</html>
