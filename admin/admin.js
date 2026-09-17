@@ -55,10 +55,10 @@
         passwordInput.value = "";
         showDashboard();
       } else {
-        loginError.textContent = data.error || "Login fail ho gaya.";
+        loginError.textContent = data.error || "Login failed.";
       }
     } catch (e) {
-      loginError.textContent = "Server se connect nahi ho saka.";
+      loginError.textContent = "Could not connect to the server.";
     }
   });
 
@@ -147,7 +147,7 @@
     removeImageBtn.click();
     sendBtn.disabled = true;
 
-    const typingEl = addMessage("bot", "Soch raha hoon...", { typing: true });
+    const typingEl = addMessage("bot", "Thinking...", { typing: true });
 
     try {
       const res = await fetch("/api/chat", {
@@ -158,16 +158,16 @@
       const data = await res.json();
       typingEl.remove();
       if (res.status === 401) {
-        addMessage("bot", "Session khatam ho gaya, dobara login karein.", { error: true });
+        addMessage("bot", "Your session has expired — please log in again.", { error: true });
         showLogin();
         return;
       }
-      const replyText = data.reply || data.error || "Kuch ghalat ho gaya.";
+      const replyText = data.reply || data.error || "Something went wrong.";
       addMessage("bot", replyText, { error: !!data.error });
       history.push({ role: "assistant", content: replyText });
     } catch (e) {
       typingEl.remove();
-      addMessage("bot", "Server se connect nahi ho saka. Dobara try karein.", { error: true });
+      addMessage("bot", "Could not connect to the server. Please try again.", { error: true });
     } finally {
       sendBtn.disabled = false;
     }

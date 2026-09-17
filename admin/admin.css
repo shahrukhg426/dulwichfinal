@@ -39,17 +39,13 @@ body {
   box-shadow: 0 20px 60px rgba(0,0,0,0.35);
 }
 .login-logo {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 56px;
-  height: 56px;
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
   border-radius: 14px;
-  background: var(--green);
-  color: var(--navy);
-  font-weight: 800;
-  font-size: 15px;
-  letter-spacing: 0.5px;
+  background: var(--off-white);
+  padding: 6px;
   margin-bottom: 16px;
 }
 .login-card h1 { font-size: 22px; margin: 0 0 4px; }
@@ -93,12 +89,12 @@ body {
 .sidebar-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; }
 .brand { display: flex; align-items: center; gap: 8px; }
 .brand-badge {
-  background: var(--green);
-  color: var(--navy);
-  font-weight: 800;
-  font-size: 12px;
-  padding: 4px 8px;
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  background: var(--white);
   border-radius: 6px;
+  padding: 2px;
 }
 .brand-name { font-weight: 600; font-size: 15px; }
 .logout-btn {

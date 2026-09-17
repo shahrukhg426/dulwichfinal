@@ -12,7 +12,7 @@
 <!-- ===== Login screen ===== -->
 <div id="loginScreen" class="login-screen">
   <div class="login-card">
-    <div class="login-logo">DTTC</div>
+    <img class="login-logo" src="https://nejyjogwbbubeqkrgqat.supabase.co/storage/v1/object/public/claudedrop-images/uploads/1778325935065_hu9xscz.png" alt="Dulwich Table Tennis Club" />
     <h1>Admin Panel</h1>
     <p class="login-sub">Dulwich Table Tennis Club &mdash; content assistant</p>
     <form id="loginForm">
@@ -29,7 +29,7 @@
   <aside class="sidebar">
     <div class="sidebar-top">
       <div class="brand">
-        <span class="brand-badge">DTTC</span>
+        <img class="brand-badge" src="https://nejyjogwbbubeqkrgqat.supabase.co/storage/v1/object/public/claudedrop-images/uploads/1778325935065_hu9xscz.png" alt="Dulwich Table Tennis Club" />
         <span class="brand-name">Admin</span>
       </div>
       <button id="logoutBtn" class="logout-btn" title="Log out">Log out</button>
@@ -38,27 +38,27 @@
     <div class="sidebar-section">
       <div class="sidebar-label">Pages</div>
       <div class="chip-list" id="pageChips">
-        <button class="chip" data-text="Home page ke ">Home</button>
-        <button class="chip" data-text="Services page ke ">Services</button>
-        <button class="chip" data-text="Membership page ke ">Membership</button>
-        <button class="chip" data-text="Champions page ke ">Champions</button>
-        <button class="chip" data-text="Contact page ke ">Contact</button>
-        <button class="chip" data-text="Policy page ke ">Policy</button>
-        <button class="chip" data-text="Club account page ke ">Club Account</button>
+        <button class="chip" data-text="On the Home page, ">Home</button>
+        <button class="chip" data-text="On the Services page, ">Services</button>
+        <button class="chip" data-text="On the Membership page, ">Membership</button>
+        <button class="chip" data-text="On the Champions page, ">Champions</button>
+        <button class="chip" data-text="On the Contact page, ">Contact</button>
+        <button class="chip" data-text="On the Policy page, ">Policy</button>
+        <button class="chip" data-text="On the Club Account page, ">Club Account</button>
       </div>
     </div>
 
     <div class="sidebar-section">
-      <div class="sidebar-label">Kaise likhein</div>
+      <div class="sidebar-label">How to ask</div>
       <ul class="tips">
-        <li>"Home page ke about section ka text yeh kar do: ..."</li>
-        <li>"Contact page ka phone number 07xxxxxxxxx kar do"</li>
-        <li>"FAQ me naya sawal add karo: ..."</li>
-        <li>Image badalne ke liye pehle 📎 se photo attach karein, phir batayein kis section me lagani hai</li>
+        <li>"Update the Home page about section text to: ..."</li>
+        <li>"Change the Contact page phone number to 07xxxxxxxxx"</li>
+        <li>"Add a new FAQ: Q: ... A: ..."</li>
+        <li>To change an image, attach it with 📎 first, then say which section it's for</li>
       </ul>
     </div>
 
-    <div class="sidebar-footer">Changes 1&ndash;2 minute me live site par nazar aayenge.</div>
+    <div class="sidebar-footer">Changes appear on the live site within 1&ndash;2 minutes.</div>
   </aside>
 
   <main class="chat-main">
@@ -73,7 +73,7 @@
     <div class="chat-messages" id="chatMessages">
       <div class="msg msg-bot">
         <div class="msg-bubble">
-          Assalam-o-Alaikum! Mujhe batayein kis page ke kis section me kya add ya change karna hai &mdash; text ho ya image, main site par update kar dunga.
+          Hello! Let me know which page and section you'd like to update &mdash; text or image &mdash; and I'll make the change on the site.
         </div>
       </div>
     </div>
@@ -85,11 +85,11 @@
         <button id="removeImageBtn" type="button">&times;</button>
       </div>
       <form id="chatForm" class="chat-form">
-        <label class="attach-btn" title="Image attach karein">
+        <label class="attach-btn" title="Attach an image">
           📎
           <input type="file" id="imageInput" accept="image/*" hidden />
         </label>
-        <textarea id="messageInput" rows="1" placeholder="Message likhein... (e.g. Home page ke hero heading ko yeh kar do: ...)"></textarea>
+        <textarea id="messageInput" rows="1" placeholder="Type a message... (e.g. Change the Home page hero heading to: ...)"></textarea>
         <button type="submit" id="sendBtn">Send</button>
       </form>
     </div>
