@@ -83,6 +83,7 @@ module.exports = async (req, res) => {
   const byFile = new Map(); // filename -> { page, actions: [{action, marker}] }
   const changes = [];
   const problems = [];
+  const commitLinks = [];
 
   for (const action of actions) {
     const lookupId = action.type === "add_item" ? action.container_id : action.id;
@@ -155,7 +156,9 @@ module.exports = async (req, res) => {
 
     if (changedInFile > 0) {
       try {
-        await github.putFile(file, content, `Admin chat update: ${file}`, fileData.sha);
+        const result = await github.putFile(file, content, `Admin chat update: ${file}`, fileData.sha);
+        const commitUrl = result && result.commit && result.commit.html_url;
+        if (commitUrl) commitLinks.push(commitUrl);
       } catch (e) {
         problems.push(`Could not save ${file}: ${e.message}`);
       }
@@ -165,10 +168,13 @@ module.exports = async (req, res) => {
   let reply = plan.reply || "";
   if (changes.length) {
     reply += `\n\n✅ Updated (${changes.length}): ${changes.join(", ")}.\nThe live site will reflect this in 1-2 minutes: ${PUBLIC_SITE_BASE}`;
+    if (commitLinks.length) {
+      reply += `\nGitHub commit: ${commitLinks.join(", ")}`;
+    }
   }
   if (problems.length) {
     reply += `\n\n⚠️ Issues: ${problems.join(" | ")}`;
   }
 
-  return sendJson(res, 200, { reply: reply.trim(), changes, problems });
+  return sendJson(res, 200, { reply: reply.trim(), changes, problems, commitLinks });
 };
